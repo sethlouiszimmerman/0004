@@ -1,0 +1,28 @@
+p{
+
+    margin: 10px 10px 10px 10px;
+
+}
+
+a{
+
+	text-decoration: none;
+	color: black;
+
+}
+
+a:hover{
+
+	text-decoration: none;
+	color: #00FF00;;
+
+}
+
+img {
+
+position: absolute;
+bottom: 250px;
+left: 250px;
+
+
+}
